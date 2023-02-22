@@ -26,7 +26,7 @@
 {"key":"csp_xBPQ_女优","name":"💢女优〔翻墙〕","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/女优.json","jar":"./JAR/Yoursmile2.jar"},
 {"key":"csp_Miss","name":"💢Miss AV 墙外〔SP〕","type":3,"api":"csp_Miss","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "push_agent","name": "阿里 | 推送","type": 3,"api": "csp_Push","ext": "./JS/lib/token.txt","jar":"./JS/fm.jar"}],
-"lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=./TV/live.txt"]}]}],
+"lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=./TV/18TV.txt"]}]}],
 //"lives":[{"name":"太阳","type":0,"url":"http://111.67.196.181/mtv/zhibo.txt"}],
 "rules":[
 {"host":"www.djuu.com","rule":["mp4.djuu.com","m4a"]},{"host":"www.sharenice.net","rule":["huoshan.com","/item/video/"],"filter":[]},
